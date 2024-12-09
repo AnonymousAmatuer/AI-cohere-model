@@ -81,10 +81,7 @@ COHERE_API_KEY=your-cohere-api-key
 
     <h2>📧 <b>Support</b></h2>
     <p>If you encounter issues or have questions, feel free to contact the developer:</p>
-    <ul>
-        <li><b>Email:</b> your-email@example.com</li>
-        <li><b>GitHub Issues:</b> <a href="https://github.com/your-repo-name/ai-chatbot/issues">Submit an issue</a></li>
-    </ul>
+    
 
     <h2>📜 <b>License</b></h2>
     <p>This project is licensed under the <b>MIT License</b>. See the <code>LICENSE</code> file for details.</p>
