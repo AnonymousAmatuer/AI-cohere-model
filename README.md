@@ -79,10 +79,6 @@ COHERE_API_KEY=your-cohere-api-key
         <li>Integrating additional functionality (e.g., GUI, database support).</li>
     </ul>
 
-    <h2>📧 <b>Support</b></h2>
-    <p>If you encounter issues or have questions, feel free to contact the developer:</p>
-    
-
     <h2>📜 <b>License</b></h2>
     <p>This project is licensed under the <b>MIT License</b>. See the <code>LICENSE</code> file for details.</p>
 
